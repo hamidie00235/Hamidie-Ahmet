@@ -1,5 +1,5 @@
 #Hi there 👋, Hamidie
-![Hamidie](https://IMG_0794.PNG)
+![Hamidie](github_compressed_page-0001.jpg)
 )
 
 I am passionate about information and communication technologies, currently pursuing a degree in computer engineering at Karabuk University in Turkey.
