@@ -1,5 +1,6 @@
 ### Hi there 👋, Hamidie
-![Hamidie](link_to_your_image)
+![Hamidie](https://IMG_0794.PNG)
+)
 
 I am passionate about information and communication technologies, currently pursuing a degree in computer engineering at Karabuk University in Turkey.
 
